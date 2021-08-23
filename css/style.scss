@@ -256,10 +256,13 @@ nav {
     }
 }
 @media (min-width: 1024px) {
-    .link-items{
-        
+   
+    .container{
+        img{
+            margin-top: 50px;
+        }
+        margin-top: -20px;
     }
-    
     .burger {
         display: none !important;
     }
@@ -292,7 +295,7 @@ nav {
     }
     body::before {
         width: 57vw;
-        height: 38vh;
+        height: 32vh;
     }
     main{
         margin: 50px ;

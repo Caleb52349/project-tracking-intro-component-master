@@ -228,6 +228,13 @@ nav .link-items a:hover {
   }
 }
 @media (min-width: 1024px) {
+  .container {
+    margin-top: -20px;
+  }
+  .container img {
+    margin-top: 50px;
+  }
+
   .burger {
     display: none !important;
   }
@@ -256,7 +263,7 @@ nav .link-items a:hover {
 
   body::before {
     width: 57vw;
-    height: 38vh;
+    height: 32vh;
   }
 
   main {
