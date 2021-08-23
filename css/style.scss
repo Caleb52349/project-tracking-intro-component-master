@@ -257,7 +257,7 @@ nav {
 }
 @media (min-width: 1024px) {
     .link-items{
-        font-size: 1.5rem;
+        
     }
     
     .burger {
@@ -268,7 +268,9 @@ nav {
         order: 2;
     }
     .description {
-        margin-left: 50px;
+        
+
+        
         order: 1;
         h4{
             button{
@@ -289,8 +291,8 @@ nav {
         }
     }
     body::before {
-        width: 50vw;
-        height: 25vh;
+        width: 57vw;
+        height: 38vh;
     }
     main{
         margin: 50px ;

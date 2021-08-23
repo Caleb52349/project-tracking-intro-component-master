@@ -228,10 +228,6 @@ nav .link-items a:hover {
   }
 }
 @media (min-width: 1024px) {
-  .link-items {
-    font-size: 1.5rem;
-  }
-
   .burger {
     display: none !important;
   }
@@ -241,7 +237,6 @@ nav .link-items a:hover {
   }
 
   .description {
-    margin-left: 50px;
     order: 1;
   }
   .description h4 button {
@@ -260,8 +255,8 @@ nav .link-items a:hover {
   }
 
   body::before {
-    width: 50vw;
-    height: 25vh;
+    width: 57vw;
+    height: 38vh;
   }
 
   main {
