@@ -102,7 +102,7 @@ nav .link-items a:hover {
 @media (min-width: 375px) {
   .navbar {
     margin: 0;
-    padding: 30px;
+    padding: 10px;
   }
 
   .logo {
